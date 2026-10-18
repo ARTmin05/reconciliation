@@ -30,7 +30,13 @@ The order number is extracted from free-text payment purposes like *"Оплат�
 
 ## 📸 Screenshots
 
-<!-- screenshots -->
+**Discrepancies** — only the problems, color-coded, with comments
+
+![Discrepancies](screenshots/discrepancies.png)
+
+| Summary | Bank statement with a status for every payment |
+|---|---|
+| ![Summary](screenshots/summary.png) | ![Bank](screenshots/bank.png) |
 
 ## 🚀 Run
 
